@@ -1,5 +1,6 @@
-name: J2MC_Antispam
-author: j2dev
+name: Antispam
+website: http://forums.joe.to
+author: J2 Minecraft Plugin Team
 version: 1.0
 main: to.joe.j2mc.antispam.J2MC_Antispam
 description: j2 antispam
